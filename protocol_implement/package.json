@@ -1,5 +1,5 @@
 {
-  "name": "protocol_implement",
+  "name": "mqtt_serv",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
