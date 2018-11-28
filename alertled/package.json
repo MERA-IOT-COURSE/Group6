@@ -1,0 +1,17 @@
+{
+  "name": "alertled",
+  "version": "1.0.0",
+  "description": "The simple example of doorbell or alarm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "doorbell"
+  ],
+  "author": "Group6",
+  "license": "ISC",
+  "dependencies": {
+    "onoff": "^3.2.2"
+  }
+}
